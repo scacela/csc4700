@@ -1,3 +1,12 @@
 CSC 4700: Software Engineering
 Spring 2017
 Professor Jason Dobies
+
+What is your favorite movie?
+Lord of the Rings: The Return of the King
+
+If you could go anywhere in the world for vacation, where would it be?
+New Zealand
+
+If you could have any super power, what would it be (and why that power)?
+I would have the power to watch parts of my life as if it were a movie. This would be a great way to revisit or relive great times, and would come in handy for remembering other practical information.
